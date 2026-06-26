@@ -4,8 +4,8 @@
 
 This project investigates trajectory planning for autonomous aerial vehicles (drones) operating within **safe flight corridors (SFC)** — predefined regions of space that guarantee obstacle-free movement. Two established optimization methods are implemented and compared:
 
-- **Mixed-Integer Quadratic Programming (MIQP)** [1] — a classical mathematical approach that selects optimal trajectory segments by solving a discrete-continuous optimization problem.
-- **Spatio-Temporal Optimization (STO)** [2] — a geometry-aware method that jointly optimizes the shape and timing of a trajectory for smooth, efficient flight.
+- **Mixed-Integer Quadratic Programming (MIQP)** [[1]](#references) — a classical mathematical approach that selects optimal trajectory segments by solving a discrete-continuous optimization problem.
+- **Spatio-Temporal Optimization (STO)** [[2]](#references) — a geometry-aware method that jointly optimizes the shape and timing of a trajectory for smooth, efficient flight.
 
 Beyond the single-agent comparison, this work introduces an extension of STO to coordinate **multiple drones simultaneously**, achieving collision-free flight through iterative global optimization.
 
