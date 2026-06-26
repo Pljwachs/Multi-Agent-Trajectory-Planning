@@ -1,4 +1,4 @@
-# Continuous Trajectory Optimization in Safe Flight Corridors 
+# Multi-Agent-Trajectory-Planning
 
 > **Note:** This repository is shared for viewing purposes only. Source code is not publicly available.
 
